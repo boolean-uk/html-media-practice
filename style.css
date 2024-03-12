@@ -177,7 +177,16 @@
   #top-picks ol {
     padding-left: 1.5rem;
   }
-  
+  .lacie {
+    width: 40px;
+  }
+  .samsung {
+    width: 50px;
+  }
+  .seagate {
+    width: 60px;
+  }
+
   aside {
     grid-area: aside;
   
