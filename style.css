@@ -6,8 +6,11 @@
   
   svg:hover .pinterest-background {
     fill: red;
+  }  
+  #ava {
+    border-radius: 50%;
+    border: 2px solid;
   }
-  
   /* Remove default margin */
   body,
   h1,
