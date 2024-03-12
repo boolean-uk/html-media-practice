@@ -97,6 +97,11 @@
   
     box-shadow: 0 6px 18px #00000020;
   }
+  .author img {
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
   
   .logo {
     grid-area: logo;
@@ -172,7 +177,16 @@
   #top-picks ol {
     padding-left: 1.5rem;
   }
-  
+  .lacie {
+    width: 40px;
+  }
+  .samsung {
+    width: 50px;
+  }
+  .seagate {
+    width: 60px;
+  }
+
   aside {
     grid-area: aside;
   
