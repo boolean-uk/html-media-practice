@@ -111,7 +111,18 @@
   
     font-size: 1.5rem;
   }
-  
+
+  .social-media {
+    display: grid;
+    grid-template: 
+      '1 2 3 4 5';
+    gap: 12px;
+  }
+
+  .social-media img {
+    width: 35px;
+  }
+
   /* Main */
   
   main {
@@ -191,6 +202,46 @@
   
   .more-articles h2 {
     text-align: center;
+  }
+
+  .author-picture {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 150px;
+    border-radius: 50%;
+  }
+
+  .review-image1 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 250px;
+  }
+
+  .review-image2 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .review-image3 {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+  }
+
+  iframe {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  audio {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
   }
   
   /* Footer */
