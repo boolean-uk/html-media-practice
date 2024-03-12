@@ -97,6 +97,11 @@
   
     box-shadow: 0 6px 18px #00000020;
   }
+  .author img {
+    width: 40px;
+    border-radius: 50%;
+    border: 2px solid white;
+  }
   
   .logo {
     grid-area: logo;
